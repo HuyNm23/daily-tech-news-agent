@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (virtual environments)
+venv/
+env/
+.env
+
+# Báo cáo cá nhân hàng ngày (nếu không muốn đưa lên github)
+# reports/

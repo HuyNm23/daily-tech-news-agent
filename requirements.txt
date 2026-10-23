@@ -1,0 +1,2 @@
+# Thư viện hỗ trợ đọc file cấu hình .env (Tùy chọn)
+python-dotenv>=1.0.0
